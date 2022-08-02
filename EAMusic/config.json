@@ -1,0 +1,20 @@
+{
+    "Token": "",
+    "Database": "",
+    "SpotifyClientID": "",
+    "SpotifySecret": "",
+        
+        "nodes": [
+            {
+                "id": "main",
+                "host": "lavalink.mystreamnet.club",
+                "port": 443,
+                "password": "youshallnotpass",
+                "retryAmount": 15, 
+                "retryDelay": 6000, 
+                "secure": true
+            }
+        ]
+
+}
+
